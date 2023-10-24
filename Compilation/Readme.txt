@@ -1,4 +1,4 @@
-LEO Trinquet - ALI Mahmoud
+Leo TRINQUET - Ali MAHMOUD
 Projet Compilation
 
 Dans le fichier Compilation.py, nous importons enum et sys.
