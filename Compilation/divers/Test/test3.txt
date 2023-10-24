@@ -1,6 +1,0 @@
-
-int main()
-{
-    print_num(234<456);
-    return 0;
-}
